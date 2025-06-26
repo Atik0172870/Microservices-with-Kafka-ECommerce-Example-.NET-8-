@@ -1,0 +1,11 @@
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Model.deps.json
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Model.dll
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Model.pdb
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.AssemblyInfoInputs.cache
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.AssemblyInfo.cs
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.csproj.CoreCompileInputs.cache
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.dll
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\refint\Ecommerce.Model.dll
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.pdb
+E:\Others_Persoanl\Project_Practice\MicroserviceAndKafka\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\ref\Ecommerce.Model.dll
